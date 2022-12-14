@@ -64,4 +64,4 @@ body{
 
 - Website - [Dedeepya Reddy](https://github.com/hdreddy)
 - Frontend Mentor - [@hdreddy](https://www.frontendmentor.io/profile/hdreddy)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Twitter - [@hdreddy777](https://www.twitter.com/hdreddy777)
