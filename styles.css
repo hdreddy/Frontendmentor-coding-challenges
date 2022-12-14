@@ -4,9 +4,10 @@
     font-size: 11px;
     margin: auto ;
     padding: 10px;
-    text-align: center;
-    vertical-align: middle;
     width: 250px;
+    height: 400px;
+    margin-top: auto;
+    margin-bottom: auto;
 }
 .attribution a { color: hsl(228, 45%, 44%); }
 body{
@@ -15,15 +16,21 @@ body{
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(-50%, -50%); 
+    transform: translate(-50%, -50%);
 }
 .content{
     color: hsl(220, 15%, 55%);
     font-size: 11px;
 }
+footer{
+    color: hsl(220, 15%, 55%);
+    font-family: 'Outfit', sans-serif;
+    font-size: 11px;
+    padding-top: 40px;
+}
 .head{
     font-weight: bold;
-    font-size: 15px;
+    font-size: 17px;
     margin: 20px auto;
 }
 .imagers{
