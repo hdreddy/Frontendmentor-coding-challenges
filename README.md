@@ -18,7 +18,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](images/Screenshot.png)
+![Screenshot](images/Screenshot.png)
 
 
 ### Links
@@ -59,8 +59,6 @@ body{
 ### Useful resources
 
 - [Example resource 1](https://www.w3schools.com/css/css_align.asp) - This helped me for center positioning the div reason. I really liked this pattern and will use it going forward.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
 ## Author
 
