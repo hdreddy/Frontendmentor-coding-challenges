@@ -58,7 +58,7 @@ body{
 
 ### Useful resources
 
-- [Example resource 1](https://www.w3schools.com/css/css_align.asp) - This helped me for center positioning the div reason. I really liked this pattern and will use it going forward.
+- [Example resource 1](https://www.w3schools.com/css/css_align.asp) - This helped me for center positioning the div. I really liked this pattern and will use it going forward.
 
 ## Author
 
